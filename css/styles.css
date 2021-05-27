@@ -72,6 +72,50 @@ h3 {
   text-decoration: none;
 }
 
+/* Navbar */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow:hidden;
+  background-color: #393e4600;
+  position: fixed;
+  top: 0;
+  width: 100%;
+
+}
+
+
+
+li {
+  float: left;
+}
+
+li a {
+  display:block;
+  color: white;
+  text-align:center;
+  padding: 5px 16px;
+  text-decoration: none;
+  font-size: larger;
+  font-size:xx-large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
+
+li a:hover {
+  background-color: rgba(199, 199, 199, 0.342);
+}
+
+
+/* Profile*/
+
+header {
+  background: #222831 ;
+  color: #F7FFF7;
+}
+
 
 /* Profile*/
 
