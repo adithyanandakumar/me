@@ -246,15 +246,37 @@ footer {
 }
 
 /* social icons */
-.centerdiv{
-  margin: 40px;
+
+#Linkdn{
+  color: #F7FFF7;
+  background: #1e73f1;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 7px;
+  display: inline-block;
 }
-.centerdiv i{
-  margin: 30px;
+#Igram{
+  color: #F7FFF7;
+  background: linear-gradient(#8A2387,#E94057,#F27121);
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 7px;
+  display: inline-block;
 }
-.centerdiv a i{
-  transition: all 0.3s linear;
+#Ghub{
+  color: #F7FFF7;
+  background: black;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 7px;
+  display: inline-block;
+
 }
-.centerdiv a:hover i{
-  transform: scale(1.4);
+#Mail{
+  color: #F7FFF7;
+  background: red;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 7px;
+  display: inline-block;
 }
